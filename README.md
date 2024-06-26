@@ -4,8 +4,6 @@
 
 This project is an E-commerce application built with Flutter, providing features for both login/registration and shopping functionalities. It includes a professional app configuration, comprehensive UI/UX design, and backend integration with Firebase. Below are the detailed descriptions of the app configurations, design elements, and backend functionalities.
 
-## App Configurations
-
 ### Professional App Configurations
 - Create a new Flutter project and set up a professional folder structure to ensure maintainability and scalability.
 - Implement both light and dark themes, covering buttons, text fields, app bars, chips, and more.
@@ -80,8 +78,8 @@ This project is an E-commerce application built with Flutter, providing features
 
 .com/Tushar-022/EcommerceStore/assets/96460114/8bd27d53-4e35-440a-9e39-68ecbd6dd3b2" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/1e02e8ee-2245-4ee5-bf18-0dfca73ec25d" width="200">
-### How to Install
-
+  
+# How to Install
 To install the app, use the following APK link: [Download APK](https://drive.google.com/file/d/1qDdYNMYKfNq1yAnhmhq-6Al7QqQRTOap/view?usp=sharing)
-Overview
+##Overview
 This E-commerce application provides comprehensive features for both login/registration and shopping functionalities. It includes professional app configuration, a thorough UI/UX design, and backend integration with Firebase. Below are the detailed descriptions of the app configurations, design elements, and backend functionalities.
