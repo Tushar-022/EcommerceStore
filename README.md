@@ -14,11 +14,12 @@ This project is an E-commerce application built with Flutter, providing features
 ### Login / Registration UI/UX
 - Design a native splash screen to provide a seamless initial experience.
 - Include three onboarding screens to introduce the app's features to new users.  
-  <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/5312a238-57f3-4130-b470-356132aacf90" width="200">
-- Create a registration screen with email verification and a success screen upon successful registration.  
+- Create a registration screen with email verification and a success screen upon successful registration.
+- Design a login screen, along with "forget password" and "reset password" screens to assist users in account recovery.
+ <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/5312a238-57f3-4130-b470-356132aacf90" width="200">
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/ea2edb14-db89-493f-bfa4-c71d9336f0ea" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/d9b463e3-bbef-4720-beea-2b031530e324" width="200">
-- Design a login screen, along with "forget password" and "reset password" screens to assist users in account recovery.
+
 
 ### E-Commerce App Design
 - Develop a bottom navigation bar to facilitate easy navigation across the app.
