@@ -1,10 +1,12 @@
-# E-Commerce App with Flutter
+I apologize for the oversight. Let's organize the content accordingly.
 
-## Overview
+# TK-Commerce  with Flutter
 
-This project is an E-commerce application built with Flutter, providing features for both login/registration and shopping functionalities. It includes a professional app configuration, comprehensive UI/UX design, and backend integration with Firebase. Below are the detailed descriptions of the app configurations, design elements, and backend functionalities.
+## How to Install
 
-## App Configurations
+To install the app, use the following APK link: [Download APK](https://drive.google.com/file/d/1qDdYNMYKfNq1yAnhmhq-6Al7QqQRTOap/view?usp=sharing)
+
+## Features
 
 ### Professional App Configurations
 - Create a new Flutter project and set up a professional folder structure to ensure maintainability and scalability.
@@ -13,13 +15,12 @@ This project is an E-commerce application built with Flutter, providing features
 
 ### Login / Registration UI/UX
 - Design a native splash screen to provide a seamless initial experience.
-- Include three onboarding screens to introduce the app's features to new users.  
+- Include three onboarding screens to introduce the app's features to new users.
+  <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/5312a238-57f3-4130-b470-356132aacf90" width="200">
 - Create a registration screen with email verification and a success screen upon successful registration.
-- Design a login screen, along with "forget password" and "reset password" screens to assist users in account recovery.
- <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/5312a238-57f3-4130-b470-356132aacf90" width="200">
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/ea2edb14-db89-493f-bfa4-c71d9336f0ea" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/d9b463e3-bbef-4720-beea-2b031530e324" width="200">
-
+- Design a login screen, along with "forget password" and "reset password" screens to assist users in account recovery.
 
 ### E-Commerce App Design
 - Develop a bottom navigation bar to facilitate easy navigation across the app.
@@ -29,7 +30,6 @@ This project is an E-commerce application built with Flutter, providing features
 - Include tab layout, app bar, search functionality, and featured brands section.
 - Design TabBar categories content, wishlist screen, settings screen, profile screen, and product details screens showcasing images, text, attributes, variations, ratings, reviews, and addresses.
 - Add cart functionality, checkout process, orders screen, sub-categories with horizontal product scroll, view all products, view all brands, and brand-specific products.
-
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/3236c43b-b081-4af6-80aa-43fd56bc2141" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/8980b82e-3fee-4d93-bc3a-fdd6ec03b990" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/4331f002-f2e4-4158-8d9e-c195d6917d72" width="200">  
@@ -45,13 +45,12 @@ This project is an E-commerce application built with Flutter, providing features
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/97793567-fe08-488d-8f87-58cecdab44ec" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/717a0f3e-af11-41ee-91bb-6d24ff1a9ac0" width="200">
 
-## Login Backend - Firebase Authentication
+### Login Backend - Firebase Authentication
 - Set up Firebase and ensure the onboarding screens appear only once using local storage.
 - Implement user registration with email verification, storing user data in Firestore.
 - Enable login using email and password, Google Sign-In, and Facebook Sign-In.
 - Implement "forget password" and "reset password" functionalities.
 - Perform CRUD operations on user records stored in Firestore, and manage user profile pictures using Cloud Firebase storage.
-
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/fec5a4ef-008f-4255-a645-3e331224c6bc" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/99f2b8ef-2026-48ab-80c2-5249d45eae86" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/4854f1a2-7427-4ef6-b591-873bf8d492a9" width="200">  
@@ -61,7 +60,7 @@ This project is an E-commerce application built with Flutter, providing features
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/a4ab8df3-d0e4-4118-a0c6-6b147ea7d356" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/93f7e74e-c015-449d-966a-94cd018399e4" width="200">
 
-## E-Commerce App Backend
+### E-Commerce App Backend
 - Fetch categories and subcategories to display in tabs used in the store.
 - Retrieve banners and redirect users to specific screens.
 - Fetch products and product details, using state management to optimize Firestore reads and writes.
@@ -72,11 +71,16 @@ This project is an E-commerce application built with Flutter, providing features
 - Allow users to add or update addresses.
 - Implement the functionality to add products to the cart from both product cards and product detail sections.
 - Manage the checkout process and create/display orders.
-
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/c5d82079-ba33-4b96-9667-9f8a34bbb718" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/59c43ac2-8d59-41a8-a8f2-8326adb086a2" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/0f3651ed-6d56-45b0-9afd-3dfc6d741119" width="200">  
-  <img src="https://github
+  <img src
 
-.com/Tushar-022/EcommerceStore/assets/96460114/8bd27d53-4e35-440a-9e39-68ecbd6dd3b2" width="200">  
+="https://github.com/Tushar-022/EcommerceStore/assets/96460114/8bd27d53-4e35-440a-9e39-68ecbd6dd3b2" width="200">  
   <img src="https://github.com/Tushar-022/EcommerceStore/assets/96460114/1e02e8ee-2245-4ee5-bf18-0dfca73ec25d" width="200">
+
+## App Configurations
+
+### Overview
+
+This E-commerce application provides comprehensive features for both login/registration and shopping functionalities. It includes professional app configuration, a thorough UI/UX design, and backend integration with Firebase. Below are the detailed descriptions of the app configurations, design elements, and backend functionalities.
