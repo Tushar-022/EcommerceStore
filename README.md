@@ -81,5 +81,6 @@ This project is an E-commerce application built with Flutter, providing features
   
 # How to Install
 To install the app, use the following APK link: [Download APK](https://drive.google.com/file/d/1qDdYNMYKfNq1yAnhmhq-6Al7QqQRTOap/view?usp=sharing)
-##Overview
+
+## Overview
 This E-commerce application provides comprehensive features for both login/registration and shopping functionalities. It includes professional app configuration, a thorough UI/UX design, and backend integration with Firebase. Below are the detailed descriptions of the app configurations, design elements, and backend functionalities.
